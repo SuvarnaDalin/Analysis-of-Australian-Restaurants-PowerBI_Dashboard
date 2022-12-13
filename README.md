@@ -6,4 +6,4 @@ The restaurant analysis dashboard is created to analyze the restaurants across A
 
 ![alt text](https://github.com/SuvarnaDalin/Analysis-of-Australian-Restaurants-PowerBI_Dashboard/blob/main/Locations.png)
 
-[Restaurant Analysis Power BI Report](https://github.com/SuvarnaDalin/Analysis-of-Australian-Restaurants-PowerBI_Dashboard/blob/main/restaurant_analysis.html)
+[Restaurant Analysis Power BI Report](https://rawcdn.githack.com/SuvarnaDalin/Analysis-of-Australian-Restaurants-PowerBI_Dashboard/2427e68217afee63f3f6c9755fc43310501d2802/restaurant_analysis.html)
